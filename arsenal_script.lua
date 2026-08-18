@@ -2,8 +2,7 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AikaV3rm/UiLib/master/Lib.lua"))()
 
 --==============================================================================
--- KILL AURA PROFISSIONAL v5.0 - COM UI AVANÇADA
--- Sistema para testes de anti-cheat em ambiente controlado
+-- KILL AURA
 --==============================================================================
 
 local Players = game:GetService("Players")
